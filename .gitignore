@@ -1,0 +1,8 @@
+bin/*
+gfx/*
+bin/**/*
+gfx/**/*
+.DS_Store
+.actionScriptProperties
+.project
+.settings/**
